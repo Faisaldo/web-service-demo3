@@ -13,11 +13,11 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> 
 <a class="navbar-brand" href="#">My Laravel Site</a> 
 <div class="collapse navbar-collapse"> 
-<ul class="navbar-nav ml-auto"> 
-<li class="nav-item"><a class="nav-link" href="/">Home</a></li> 
-<li class="nav-item"><a class="nav-link" href="/about">About</a></li> 
-<li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li> 
-</ul> 
+    <ul class="navbar-nav ml-auto"> 
+       <li class="nav-item"><a class="nav-link" href="/">Home</a></li> 
+       <li class="nav-item"><a class="nav-link" href="/about">About</a></li> 
+       <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li> 
+    </ul> 
 </div> 
 </nav> 
  
@@ -34,5 +34,6 @@ src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.j
 </html>
 <!-- Footer --> 
 <footer class="bg-dark text-white text-center mt-5 p-3"> 
-<p>&copy; 2024 My Laravel Site. All rights reserved.</p> 
+<p>&copy; 2024 My website faisal. All rights reserved.</p> 
+</footer> 
 </footer>
