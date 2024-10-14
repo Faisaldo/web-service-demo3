@@ -29,3 +29,7 @@ Route::get('/portfolio', function () {
     Route::get('/contact', function () { 
         return view('contact'); 
     });
+
+    Route::get('/dashboard', function () { 
+        return view('dashboard'); 
+    });
