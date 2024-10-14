@@ -32,4 +32,4 @@ Route::get('/portfolio', function () {
 
     Route::get('/dashboard', function () { 
         return view('dashboard'); 
-    });
+    }); 
